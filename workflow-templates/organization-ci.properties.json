@@ -3,7 +3,7 @@
     "description": "organization-ci workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Yaml"
     ],
     "filePatterns": [
         "package.json$",
